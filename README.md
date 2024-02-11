@@ -1,1 +1,48 @@
 # The-Hacking-movies-List-
+Hacker Movies 🎥 
+
+- Blackhat
+- The Matrix Reloaded
+- Who Am I
+- The Net
+- Nerve
+- WarGames
+- The Takeover
+- M:I-4
+- The Throwaways
+- Tron:Legacy
+- The Girl in the Spider's Web
+- Snowden
+- Independence Day
+- Criminal
+- Cam
+- Hackers
+- The Fate of the Furious
+- Hot Seat
+- Anon
+- Eagle Eye
+- Johnny English Strikes Again
+- Sneakers
+- Ghost in the Shell
+- Live Free or Die Hard
+- Skyfall
+- Trancendence
+- Undersiege:Dark Territory
+- Mercury Rising
+- Catch Me if You Can
+- Minority Report
+- The Zero Theorem
+- The Italian Job
+- Inception
+- The Great Hack
+- Terminator:Judgement Day
+- 21
+- Ocean's 8
+- The Imitation Game
+- Entrapment
+- The Thirteen Floor
+- The Social Network
+- Real Genius
+- Disclosure
+- Citizenfour
+- The Social Dilemma
